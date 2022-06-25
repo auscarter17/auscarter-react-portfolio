@@ -1,13 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
-import Header from './components/Header';
+import Nav from './components/Nav'
+import About from './components/About'
+import Portfolio from './components/Portfolio';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 function App() {
-  return (
+  return(
     <div>
-      <Header></Header>
+      <Nav></Nav>
+      <main>
+        <About></About>
+      </main>
     </div>
-  );
+  )
 }
 
 export default App;
