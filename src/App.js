@@ -5,6 +5,7 @@ import About from './components/About'
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 function App() {
   const [categories] = useState([
@@ -29,7 +30,7 @@ function App() {
     }
   ]);
 
-  const [currentCategory, setCurrentCategory] = useState(categories[0].name);
+  const [currentCategory, setCurrentCategory] = useState(categories[0]);
 
   const displayCategory = () => {
     if (currentCategory.name === 'about') {
@@ -44,15 +45,20 @@ function App() {
   }
 
   return(
-    <div>
+    <div className="main">
       <Nav
         categories={categories}
         setCurrentCategory={setCurrentCategory}
         currentCategory={currentCategory}
       ></Nav>
-      <main>
-        {displayCategory()}
-      </main>
+      <div classname="content">
+        <main>
+          {displayCategory()}
+        </main>
+      </div>
+      <footer>
+        <Footer></Footer>
+      </footer>
     </div>
   )
 }

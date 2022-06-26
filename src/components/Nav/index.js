@@ -13,14 +13,14 @@ function Nav(props) {
 
   return (
     <header className="flex-row px-1">
-      <h2>
+      <h1 className="">
         <span>Austin Carter</span>
-      </h2>
+      </h1>
       <nav>
-        <ul className="flex-row">
+        <ul className="navitems flex-row list-group list-group-horizontal">
             {categories.map((category) => (
               <li
-                className={`mx-1 ${
+                className={`mx-1 flex-fill ${
                   currentCategory.name === category.name && `navActive`
                   }`}
                 key={category.name}
