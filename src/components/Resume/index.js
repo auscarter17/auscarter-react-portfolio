@@ -3,7 +3,7 @@ import React from "react";
 function Resume() {
   return (
     <div>
-      Here is my resume.
+      <a href={require("../../assets/files/AustinCarterResume.pdf")} download="AustinCarterResume.pdf">Download Resume</a>
     </div>
   )
 }
