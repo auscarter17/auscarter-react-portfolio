@@ -49,6 +49,7 @@ main {
 .project-container {
   text-align: center;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .repoText {
@@ -70,6 +71,7 @@ main {
   height: 300px;
   object-fit: cover;
   margin: 20px;
+  max-width: 250px;
 }
 
 .contact-form {
