@@ -15,6 +15,17 @@ code {
     monospace;
 }
 
+.heading {
+  width: 100%;
+}
+
+header {
+  background-image: url('./assets/media/headerImage.PNG');
+  background-size:100%;
+  width: 100%;
+  color: black;
+}
+
 ul {
   list-style: none;
 }
