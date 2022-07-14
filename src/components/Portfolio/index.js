@@ -15,14 +15,14 @@ function Portfolio() {
       liveUrl: 'https://auscarter17.github.io/Foxy/'
     },
     {
+      name: "Thought Boxer",
+      github: 'https://github.com/JoelHauser/runescapethree',
+      liveUrl: 'https://thoughtboxer.herokuapp.com/'
+    },
+    {
       name: "Dollar Caller",
       github: 'https://github.com/auscarter17/Dollar-Caller',
       liveUrl: 'https://dollar-caller.herokuapp.com/'
-    },
-    {
-      name: "Password Generator",
-      github: 'https://github.com/auscarter17/Password-Generator',
-      liveUrl: 'https://auscarter17.github.io/Password-Generator/'
     },
     {
       name: 'Horiseon',
