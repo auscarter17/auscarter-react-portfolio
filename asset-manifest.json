@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/auscarter-react-portfolio/static/css/main.a96422ed.css",
+    "main.js": "/auscarter-react-portfolio/static/js/main.082afd2f.js",
+    "static/js/787.a7249224.chunk.js": "/auscarter-react-portfolio/static/js/787.a7249224.chunk.js",
+    "static/media/Food Festival.png": "/auscarter-react-portfolio/static/media/Food Festival.304ba536ca89224bcb7b.png",
+    "static/media/austinCarterHeadshot.jpg": "/auscarter-react-portfolio/static/media/austinCarterHeadshot.1c09dc8a907c038bbb4e.jpg",
+    "static/media/Horiseon.png": "/auscarter-react-portfolio/static/media/Horiseon.331b70035b2e45f812d9.png",
+    "static/media/headerImage.PNG": "/auscarter-react-portfolio/static/media/headerImage.02140bf898ed9a0a6be8.PNG",
+    "static/media/Fork That Orc.png": "/auscarter-react-portfolio/static/media/Fork That Orc.76746954ab467d00903b.png",
+    "static/media/Dollar Caller.png": "/auscarter-react-portfolio/static/media/Dollar Caller.d809be5be375cec5e4cb.png",
+    "static/media/Password Generator.png": "/auscarter-react-portfolio/static/media/Password Generator.eeb3fb668f2eba6c9513.png",
+    "static/media/AustinCarterResume.pdf": "/auscarter-react-portfolio/static/media/AustinCarterResume.952d0cc229efe50374c6.pdf",
+    "static/media/foxy.png": "/auscarter-react-portfolio/static/media/foxy.85ab5edcae7997de82c7.png",
+    "static/media/linkedin.png": "/auscarter-react-portfolio/static/media/linkedin.712c4ce3d6be06644d11.png",
+    "index.html": "/auscarter-react-portfolio/index.html",
+    "main.a96422ed.css.map": "/auscarter-react-portfolio/static/css/main.a96422ed.css.map",
+    "main.082afd2f.js.map": "/auscarter-react-portfolio/static/js/main.082afd2f.js.map",
+    "787.a7249224.chunk.js.map": "/auscarter-react-portfolio/static/js/787.a7249224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a96422ed.css",
+    "static/js/main.082afd2f.js"
+  ]
+}
