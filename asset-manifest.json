@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/auscarter-react-portfolio/static/css/main.a96422ed.css",
-    "main.js": "/auscarter-react-portfolio/static/js/main.d4ceed6f.js",
+    "main.css": "/auscarter-react-portfolio/static/css/main.c07329f4.css",
+    "main.js": "/auscarter-react-portfolio/static/js/main.4d6e2657.js",
     "static/js/787.a7249224.chunk.js": "/auscarter-react-portfolio/static/js/787.a7249224.chunk.js",
     "static/media/Food Festival.png": "/auscarter-react-portfolio/static/media/Food Festival.304ba536ca89224bcb7b.png",
     "static/media/austinCarterHeadshot.jpg": "/auscarter-react-portfolio/static/media/austinCarterHeadshot.1c09dc8a907c038bbb4e.jpg",
@@ -15,12 +15,12 @@
     "static/media/linkedin.png": "/auscarter-react-portfolio/static/media/linkedin.712c4ce3d6be06644d11.png",
     "static/media/Thought Boxer.png": "/auscarter-react-portfolio/static/media/Thought Boxer.ed61568997ab0e77d1cf.png",
     "index.html": "/auscarter-react-portfolio/index.html",
-    "main.a96422ed.css.map": "/auscarter-react-portfolio/static/css/main.a96422ed.css.map",
-    "main.d4ceed6f.js.map": "/auscarter-react-portfolio/static/js/main.d4ceed6f.js.map",
+    "main.c07329f4.css.map": "/auscarter-react-portfolio/static/css/main.c07329f4.css.map",
+    "main.4d6e2657.js.map": "/auscarter-react-portfolio/static/js/main.4d6e2657.js.map",
     "787.a7249224.chunk.js.map": "/auscarter-react-portfolio/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a96422ed.css",
-    "static/js/main.d4ceed6f.js"
+    "static/css/main.c07329f4.css",
+    "static/js/main.4d6e2657.js"
   ]
 }
