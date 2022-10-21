@@ -51,7 +51,7 @@ function App() {
         setCurrentCategory={setCurrentCategory}
         currentCategory={currentCategory}
       ></Nav>
-      <div classname="content">
+      <div>
         <main>
           {displayCategory()}
         </main>

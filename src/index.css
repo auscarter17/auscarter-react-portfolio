@@ -54,7 +54,7 @@ main {
 }
 
 .projects {
-  width: 100%
+  width: 100%;
 }
 
 .project-container {
@@ -65,6 +65,7 @@ main {
 
 .repoText {
   min-width: 30%;
+  color: black;
 }
 
 .repoText a {
@@ -83,6 +84,11 @@ main {
   object-fit: cover;
   margin: 20px;
   max-width: 250px;
+  align-self: center;
+}
+
+.project-image {
+  border-bottom: 1px solid white;
 }
 
 .contact-form {
@@ -106,6 +112,11 @@ footer img {
   border-radius: 50%;
 }
 
+.card {
+  width: 40%;
+  margin: 20px;
+}
+
 @media only screen and (max-width: 720px) {
   .navitems {
     flex-direction: column;
@@ -114,6 +125,11 @@ footer img {
 
   .about {
     text-align: center;
+    inline-size: min-content
+  }
+
+  .about img {
+    float: none;
   }
 
   .projects img {
@@ -124,5 +140,14 @@ footer img {
   .contact-form {
     right: 0px;
     position: relative;
+  }
+
+  .card {
+    
+    min-width: 90%;
+  }
+
+  .card img {
+    align-self: center;
   }
 }
